@@ -11,14 +11,13 @@ int main() {
 	s[1] = 'k';
 
 	r = val(a, &d, s);     //b 
-	printf("%d\n", r);
+	printf("%f\n", d);
 
 	return 0;
 }
 
 int val(int p1, double * p2, char *p3) {
 	*p2 = sqrt(p3[p1]);
-	int squareRoot = round(*p2);
-
-	return squareRoot;
+	
+	return 0;
 }

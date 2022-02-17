@@ -1,0 +1,5 @@
+start
+The number of times 3 is found in the given array is equal to: 2
+The number of times 7 is found in the given array is equal to: 3
+The number of times 6 is found in the given array is equal to: 1
+The number of times 4 is found in the given array is equal to: 1
